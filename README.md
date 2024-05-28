@@ -19,6 +19,8 @@ My projects:
 * Python
   *  [Turtle crossing game](https://github.com/DanielKohl1991/Turtle-crossing-game-project-Python/tree/main)
   *  [Password generator](https://github.com/DanielKohl1991/Password-generator-project-Python)
+  *  [Pong game](https://github.com/DanielKohl1991/Pong-game)
+  *  [Snake game](https://github.com/DanielKohl1991/Snake-game/tree/main)
 
 ### Skills
 
