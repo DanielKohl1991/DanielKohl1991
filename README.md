@@ -7,6 +7,19 @@ QA Engineer
 * 🌍  I'm based in Prague
 * ✉️  You can contact me at [kohldan@gmail.com](mailto:kohldan@gmail.com)
 
+
+My projects:
+-----------
+* JavaScript
+  * [ToDo list tests in Cypress](https://github.com/DanielKohl1991/ToDo-list-cypress)
+  * [Mapty project](https://github.com/DanielKohl1991/Mapty-project-from-JS-course)
+  * [Bankist UI project](https://github.com/DanielKohl1991/Bankist-UI-project-from-JS-course)
+  * [Bankist Web project](https://github.com/DanielKohl1991/Bankist-web-project-from-JS-course)
+ 
+* Python
+  *  [Turtle crossing game](https://github.com/DanielKohl1991/Turtle-crossing-game-project-Python/tree/main)
+  *  [Password generator](https://github.com/DanielKohl1991/Password-generator-project-Python)
+
 ### Skills
 
 <p align="left">
