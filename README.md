@@ -11,7 +11,8 @@ QA Engineer
 My projects:
 -----------
 * JavaScript
-  * [ToDo list tests in Cypress](https://github.com/DanielKohl1991/ToDo-list-cypress)
+  * [ToDo list tests in Cypress](https://github.com/DanielKohl1991/Forkify-app)
+  * [Forkify app](https://github.com/DanielKohl1991/ToDo-list-cypress)
   * [Mapty project](https://github.com/DanielKohl1991/Mapty-project-from-JS-course)
   * [Bankist UI project](https://github.com/DanielKohl1991/Bankist-UI-project-from-JS-course)
   * [Bankist Web project](https://github.com/DanielKohl1991/Bankist-web-project-from-JS-course)
