@@ -13,13 +13,13 @@ My projects:
 * JavaScript
   * [ToDo list tests in Cypress](https://github.com/DanielKohl1991/Forkify-app)
   * [Forkify app](https://github.com/DanielKohl1991/ToDo-list-cypress)
-  * [Mapty project](https://github.com/DanielKohl1991/Mapty-project-from-JS-course)
-  * [Bankist UI project](https://github.com/DanielKohl1991/Bankist-UI-project-from-JS-course)
-  * [Bankist Web project](https://github.com/DanielKohl1991/Bankist-web-project-from-JS-course)
+  * [Mapty project](https://github.com/DanielKohl1991/Mapty-project)
+  * [Bankist UI project](https://github.com/DanielKohl1991/Bankist-UI-project)
+  * [Bankist Web project](https://github.com/DanielKohl1991/Bankist-web-project)
  
 * Python
   *  [Turtle crossing game](https://github.com/DanielKohl1991/Turtle-crossing-game-project-Python/tree/main)
-  *  [Password generator](https://github.com/DanielKohl1991/Password-generator-project-Python)
+  *  [Password generator](https://github.com/DanielKohl1991/Password-manager)
   *  [Pong game](https://github.com/DanielKohl1991/Pong-game)
   *  [Snake game](https://github.com/DanielKohl1991/Snake-game/tree/main)
 
