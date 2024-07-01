@@ -11,6 +11,7 @@ QA Engineer
 My projects:
 -----------
 * JavaScript
+  * [Votify app showcase of tests in Cypress](https://github.com/DanielKohl1991/Votify-app-Cypress)
   * [ToDo list tests in Cypress](https://github.com/DanielKohl1991/ToDo-list-Cypress-tests)
   * [Forkify app](https://github.com/DanielKohl1991/Forkify-app)
   * [Mapty project](https://github.com/DanielKohl1991/Mapty-project)
